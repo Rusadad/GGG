@@ -1,0 +1,23 @@
+.Header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+}
+.Hello {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: justify;
+}
+.TextEmili{
+    width: 122px;
+}
